@@ -6,13 +6,14 @@ A simple **Library Management System** built using **C# and .NET**. The program 
 
 ## 📸 Screenshot
 
-![alt text](Library1-1.png)
+<img width="905" height="490" alt="Library1" src="https://github.com/user-attachments/assets/10c4d7a0-c543-4a1f-bc12-4446db64f7d4" />
 
-![alt text](Library2-1.png)
+<img width="916" height="465" alt="Library2" src="https://github.com/user-attachments/assets/8855a283-2162-494d-be6e-c3a10fe7a3e4" />
 
-![alt text](Library3-1.png)
+<img width="903" height="494" alt="Library3" src="https://github.com/user-attachments/assets/40998875-b9b9-48f3-8943-e6fe1306a641" />
 
-![alt text](Library4-1.png)
+<img width="878" height="424" alt="Library4" src="https://github.com/user-attachments/assets/ef1007a6-9c65-418b-82f8-eb87266409f5" />
+
 
 ## 🚀 Features
 
